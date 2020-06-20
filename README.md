@@ -1,5 +1,4 @@
 # Video-Commerce-Video-Recommender-Alexa
-<hr>
 # Presentations : 
 
 - https://docs.google.com/presentation/d/1wJcj7uuXstnaH76aSbZioF-qi_rjwgynRGU5Dhjh_f4/edit#slide=id.gcb9a0b074_1_0 - Checkpoint 1 
