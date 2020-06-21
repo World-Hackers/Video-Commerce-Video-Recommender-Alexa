@@ -6,3 +6,4 @@
 
 # Video Demo : 
 - https://www.youtube.com/watch?v=FFrTwIyDCso&feature=youtu.be Amazon Rekognition Tool 
+- https://youtu.be/t-olp9-wndg Final Checkpoint submission video 
